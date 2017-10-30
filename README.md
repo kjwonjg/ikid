@@ -1,2 +1,2 @@
-# ikid
-INFO449
+# iKid
+INFO449 - Assignment 8
