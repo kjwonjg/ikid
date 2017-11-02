@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  iKid
 //
-//  Created by Kiwon Jeong on 2017. 10. 30..
+//  Created by Kiwon Jeong on 2017. 11. 1..
 //  Copyright © 2017년 Kiwon Jeong. All rights reserved.
 //
 
